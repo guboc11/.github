@@ -166,3 +166,5 @@
 - overhead → 오버헤드
 - signature → 서명
 - sponsor → 스폰서
+- parent object → 부모 object
+- versioning scheme → 버전 관리 체계
